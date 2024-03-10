@@ -4,15 +4,15 @@
   <tr>
     <td align="center">
       <p font-size="8px"><b>Overview of MoodMapper's homepage</b></p>
-      <img src="images/github/MoodMapper_homepage.PNG" alt="Homepage" height="220">
+      <img src="images/github/MoodMapper_homepage.PNG" alt="Homepage" height="200">
     </td>
     <td>
       <p align="center"><b>Application Demo</b></p>
-      <img src="images/github/MoodMapper_after.PNG" alt="Demo" height="220">
+      <img src="images/github/MoodMapper_after.PNG" alt="Demo" height="200">
     </td>
     <td>
       <p align="center"><b>After stopping camera feed</b></p>
-      <img src="images/github/MoodMapper_after.PNG" alt="Emotion Report" height="220">
+      <img src="images/github/MoodMapper_after.PNG" alt="Emotion Report" height="200">
     </td>
   </tr>
 </table>
