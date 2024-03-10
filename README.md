@@ -4,15 +4,15 @@
   <tr>
     <td align="center">
       <p font-size="8px"><b>Overview of MoodMapper's homepage</b></p>
-      <img src="images/github/MoodMapper_homepage.PNG.png" alt="Homepage" height="300">
+      <img src="images/github/MoodMapper_homepage.PNG" alt="Homepage" height="220">
     </td>
     <td>
       <p align="center"><b>Application Demo</b></p>
-      <img src="images/github/MoodMapper_after.PNG" alt="Demo" height="300">
+      <img src="images/github/MoodMapper_after.PNG" alt="Demo" height="220">
     </td>
     <td>
       <p align="center"><b>After stopping camera feed</b></p>
-      <img src="images/github/MoodMapper_after.PNG" alt="Emotion Report" height="250">
+      <img src="images/github/MoodMapper_after.PNG" alt="Emotion Report" height="220">
     </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@
 This repository contains an implementation of a CNN aiming at performing Facial Expression Recognition (FER). It has been trained on this [Kaggle](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer) dataset. Additionally, it features MoodMapper, an user-friendly Streamlit application crafted to perform real-time emotion analysis through webcam feed.
 It is worth emphaszing that this is a very prosaic CNN implementation for FER. Consequently, it is not intended to achieve SOTA performances whatsoever, as suggested by the learning curves displayed hereinafter.
 
-<img src="images/CNN/train_acc_and_loss.png" alt="Learning Curves" width="400" height="300">
+<img src="images/CNN/train_acc_and_loss.png" alt="Learning Curves" width="800" height="400">
 
 ### Overview of the Repository
 - `model/`: Contains `emotion_detector.pt`, the trained CNN model for facial expression recognition.
