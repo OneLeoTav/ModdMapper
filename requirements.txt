@@ -1,0 +1,8 @@
+bokeh==2.4.3
+numpy==1.26.4
+opencv_contrib_python==4.7.0.68
+opencv_python==4.7.0.68
+pandas==2.2.1
+Pillow==10.2.0
+streamlit==1.30.0
+torch==2.1.2
