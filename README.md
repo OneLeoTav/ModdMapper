@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <p font-size="8px"><b>Overview of MoodMapper's homepage</b></p>
+      <p font-size="8px"><b>MoodMapper's homepage</b></p>
       <img src="images/github/MoodMapper_homepage.PNG" alt="Homepage" height="200">
     </td>
     <td>
